@@ -1,8 +1,7 @@
 #include<iostream>
 using namespace std;
-
+#define x 10 
 main(){
-	system("cls");
- cout<<"saga";
+    system("cls");
+    cout<<x;
 }
-	
