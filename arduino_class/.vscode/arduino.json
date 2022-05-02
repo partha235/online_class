@@ -2,5 +2,5 @@
     "port": "COM4",
     "configuration": "cpu=16MHzatmega328",
     "board": "arduino:avr:pro",
-    "sketch": "if_else\\if_else_stat.ino"
+    "sketch": "else_if\\el_if.ino"
 }
