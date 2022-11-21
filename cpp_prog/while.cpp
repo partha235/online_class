@@ -5,7 +5,7 @@ using namespace std;
 main(){
     int x=5;
     while (x<=10){
-        cout<<"hello\n";
+        cout<<"hello \n"<<x;
         x++;//here i used increment to stop the continuous loop
     }
 }

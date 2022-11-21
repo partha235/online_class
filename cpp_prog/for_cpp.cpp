@@ -5,7 +5,7 @@
 using namespace std;
 main(){
     int x;
-    for(x=0;x<=10;x--){
+    for(x=0;x<=10;x++){
         cout<<"saga\n";
     }
 }
