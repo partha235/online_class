@@ -13,5 +13,9 @@ main(){
     elem1.a_no=1;
     elem1.mass=2;
     cout<<elem1.name;
-    
+    Elements elem2;
+    elem2.name="carbon";
+    elem2.a_no=6;
+    elem2.mass=100;
+    cout<<elem2.name;
 }
