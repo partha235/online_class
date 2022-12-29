@@ -2,12 +2,23 @@
 using namespace std;
 void dinesh(){
     system("cls");
+    system("cls");
     cout<<"hello dinesh\n";
     int x;
-    cout<<"enter yout age";
+    cout<<"enter your age";
     cin>>x;
-    cout<<"you are "<<x<<"years old";
+    cout<<"you are "<<x<<"years old"<<endl;
 }
+
+void mathavan(){
+    system("cls");
+    cout<<"name: Mathavan"<<endl;
+    cout<<"degree: B.Sc. computer"<<endl;
+    cout<<"age: 20"<<endl;
+}
+
 main(){
     dinesh();
+    mathavan();
 }
+
