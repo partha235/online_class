@@ -6,14 +6,14 @@
 #include<iostream>
 using namespace  std;
 main(){
-    int x,y,z;
-    cout<<"enter x & y";
+    int x,y;
+    cout<<"enter x & y"<<endl;
     cin>>x>>y;
-    system("cls");// this code was writen in vs thus this command may not work in other platform.
+    system("cls");    // this code was written in vs thus this command may not work in other platform.
     if(x>y){
-        cout<<"x-y= "<<x-y<<endl;
+        cout<<"if loop x-y= "<<x-y<<endl;
     }
     else{
-        cout<<"y-x= "<<y-x<<endl;
+        cout<<"else loop y-x= "<<y-x<<endl;
     }
 }

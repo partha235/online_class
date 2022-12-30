@@ -2,8 +2,6 @@
 using namespace std;
 main(){
     system("cls");
-    int a=10,b;
-    cout<<"ent b";
-    cin>>b;
-    cout<<"a+b="<<a+b<<endl;
+    int h=10,b=5;
+    cout<<"area of cone = "<<(1*h*b)/2<<endl;
 }
