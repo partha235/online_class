@@ -5,7 +5,7 @@ senior citizenship or not.*/
 using namespace std;
 int age;
 main(){
-    cout<<"enter x";
+    cout<<"enter age";
     cin>>age;
     if(age>=18){
         if(age>=60){
