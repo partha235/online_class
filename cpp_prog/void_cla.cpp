@@ -1,12 +1,13 @@
 #include<iostream>
 using namespace std;
+
 void dinesh(){
-    system("cls");
     system("cls");
     cout<<"hello dinesh\n";
     int x;
     cout<<"enter your age";
     cin>>x;
+
     cout<<"you are "<<x<<"years old"<<endl;
 }
 
@@ -21,4 +22,3 @@ main(){
     dinesh();
     mathavan();
 }
-

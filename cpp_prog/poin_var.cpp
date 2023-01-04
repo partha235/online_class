@@ -9,6 +9,6 @@ main(){
     cin>>z;
     y=&x;
     w=&z;
-    cout<<"y is  "<<y<<"  w is  "<<w<<endl;
+    cout<<"y is  "<<y<<"\n  w is  "<<w<<endl;
 
 }
