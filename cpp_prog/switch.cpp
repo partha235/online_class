@@ -12,16 +12,16 @@ main(){
     system("cls");
     switch (x){
         case '+':
-        cout<<"d+j"<<d+j<<endl;
+        cout<<"d+j "<<d+j<<endl;  
         break;
         case '-':
-        cout<<"d-j"<<d-j<<endl;
+        cout<<"d-j "<<d-j<<endl;
         break;
         case '/':
-        cout<<"d/j"<<d/j<<endl;
+        cout<<"d/j "<<d/j<<endl;
         break;
         default:
-        cout<<"hello";
+        cout<<"hello ";
         break;
     }   
 }

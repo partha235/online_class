@@ -1,4 +1,4 @@
-/* this code is for else if whre multiple if can be used
+/* this code is for else if where multiple if can be used
 * this code states the grading system of colleges 
 on basis of mark.
 */
