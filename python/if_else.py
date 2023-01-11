@@ -1,6 +1,6 @@
 a=10
 b=int(input("enter b"))
 if a>=b:
-    print(a>=b) #return true 
+    print("a is greater") #return true 
 else:
-    print("flase")
+    print("b is greater")
