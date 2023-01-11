@@ -2,7 +2,9 @@
 // and Local Time
 #include<iostream>
 #include<ctime>
+
 using namespace std;
+
 int main()
 {
 	// Declaring argument for time()
