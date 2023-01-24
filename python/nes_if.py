@@ -1,3 +1,4 @@
+# this program works like checking availability of username.
 x="saga235"
 y=input("enter mail")
 if y!=x:
