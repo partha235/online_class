@@ -1,1 +1,3 @@
-print("this is made in notepad")
+a=10
+b=5
+print(a>=b,"a= ",a,"b= ",b)
