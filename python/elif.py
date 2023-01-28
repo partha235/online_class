@@ -5,4 +5,4 @@ if a>=b:
 elif b>=20:
     print("b>20")
 else:
-    print("flase")
+    print("false")

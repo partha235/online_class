@@ -1,9 +1,0 @@
-"_f_python":{"iconPath":"../../icons/file_type_python.svg"},
-
-"_f_arduino":{"iconPath":"../../icons/file_type_arduino.svg"},
-
-"ino":"_f_arduino","pde":"_f_arduino"
-
-"_f_micropython":{"iconPath":"../../icons/file_type_micropy.svg"},
-
-"mpy":"_f_micropython",
