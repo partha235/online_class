@@ -1,5 +1,5 @@
 def swetha():
-    print("chemistr")
+    print("chemistry")
     print('electron')
     print('nano material')
 
@@ -14,4 +14,4 @@ def area_square(a):
     print('area of square= ',4*a)
 
 def area_cone(b,h):
-    print('area of cone= '(1*b*h)/2)
+    print('area of cone= ',(1*b*h)/2)
