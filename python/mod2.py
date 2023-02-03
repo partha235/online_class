@@ -1,2 +1,2 @@
 import time as t
-print(t.localtime())
+print(t.localtime().tm_yday)
