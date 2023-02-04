@@ -6,6 +6,7 @@
         "libraryname",
         "mday",
         "mktime",
-        "swetha"
+        "swetha",
+        "yday"
     ]
 }
