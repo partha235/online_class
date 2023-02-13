@@ -8,7 +8,6 @@ class area:
     def cone(b,h):
         print('area of cone= ',(1*b*h)/2)
 
-
 class perimeter:
     def square(a):
         print("perimeter of square = ",4*a)
