@@ -1,5 +1,9 @@
-# the formula for Celsius "C = (5/9) * (F - 32)"
-F=int(input("enter temperature in fahrenheit\n"))
-C = (5/9) * (F - 32)
-print("temperature in celsius",C)
-
+x="Twinkle, twinkle, little star \n\tHow I wonder what you are! "
+y="\t\tUp above the world so high, \n\t\tLike a diamond in the sky. "
+for i in range(2):
+    print(x)
+    for d in range(1):
+        if (i>=1):
+            continue
+        print(y)
+        
