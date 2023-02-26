@@ -1,9 +1,5 @@
-x="Twinkle, twinkle, little star \n\tHow I wonder what you are! "
-y="\t\tUp above the world so high, \n\t\tLike a diamond in the sky. "
-for i in range(2):
-    print(x)
-    for d in range(1):
-        if (i>=1):
-            continue
-        print(y)
-        
+x=str(input("enter string\n"))
+if x.isupper():
+    print("given string is upper case") 
+else:
+    print(x.upper())  

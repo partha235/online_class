@@ -1,8 +1,2 @@
-y=input("enter format (c / f) : \n")
-x=int(input("enter temperature \n"))
-C = (5/9) * (x - 32)  
-F=((9*x+(32*5))/5)
-if (y=="f"):
-    print("temperature in celsius : ", C ,"\u00b0c")
-else:
-    print("temperature in fahrenheit : ", F , " \u00b0f")
+print("Twinkle, twinkle, little star, \n\tHow I wonder what you are! \n\t\tUp above the world so high, \n\t\tLike a diamond in the sky. \nTwinkle, twinkle, little star, \n\tHow I wonder what you are!")
+
