@@ -9,3 +9,13 @@ main(){
         cout<<x<<"   saga\n";
     }
 }
+
+/* 
+library
+main()
+{
+    variable 
+    for(ref;condition;increment/decrement){
+
+    } 
+}*/

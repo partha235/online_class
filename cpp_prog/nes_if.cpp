@@ -18,3 +18,19 @@ main(){
     }
 
 }
+
+
+
+/* library
+main()
+if (condition){
+    if(condition){
+        second if loop run
+    }
+    first if loop run 
+
+}
+else{
+    }
+
+*/

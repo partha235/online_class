@@ -2,7 +2,7 @@
 using namespace std;
 
 void dinesh(){
-    system("cls");
+    system("clear");
     cout<<"hello dinesh\n";
     int x;
     cout<<"enter your age";
@@ -12,7 +12,7 @@ void dinesh(){
 }
 
 void mathavan(){
-    system("cls");
+    system("clear");
     cout<<"name: Mathavan"<<endl;
     cout<<"degree: B.Sc. computer"<<endl;
     cout<<"age: 20"<<endl;

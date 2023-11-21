@@ -17,3 +17,16 @@ main(){
         cout<<"else loop y-x= "<<y-x<<endl;
     }
 }
+
+
+/* library
+main()
+if (condition){
+
+}
+condition== True --- loop run 
+condition == False 
+else{
+    loop run
+}
+*/

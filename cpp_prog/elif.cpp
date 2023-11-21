@@ -35,3 +35,21 @@ main(){
 
 
 }
+
+
+
+/* library
+main()
+if (condition){
+
+}
+condition== True --- loop run 
+condition == False 
+else if(condition){
+    condition== True --- loop run 
+}
+condition == False 
+else {
+
+}
+*/

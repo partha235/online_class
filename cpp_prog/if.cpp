@@ -14,3 +14,12 @@ main(){
     }
     
 }
+
+
+/* library
+main()
+if (condition){
+
+}
+condition== True --- loop run 
+*/

@@ -4,12 +4,12 @@ and default. */
 
 #include<iostream>
 using namespace std;
-main(){
+int main(){
     char x;
     int d=5,j=8;
     cout<<"ent char";
     cin>>x;
-    system("cls");
+    system("clear"); 
     switch (x){
         case '+':
         cout<<"d+j "<<d+j<<endl;  

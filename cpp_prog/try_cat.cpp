@@ -1,9 +1,9 @@
 #include <iostream>
 using namespace std;
 
-main() {
+int main() {
   try {
-    string x = 10;
+    int x = 10;
     int y = 0;
 
     int result = x / y; // This will throw an exception because y is 0
