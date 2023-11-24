@@ -6,7 +6,10 @@ if y!=x:
     if j>=18:
         print("you can open account")
 
+else:
+    print("name already exist.")
 
+    
 """
 if cond:
     4 space
