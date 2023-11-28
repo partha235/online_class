@@ -17,3 +17,5 @@ class perimeter:
 
     def cone(b,h):
         print("perimeter of cone = ", b+h)
+
+area.square(5)

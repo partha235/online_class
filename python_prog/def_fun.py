@@ -1,4 +1,4 @@
-def swetha():
+def harini():
     print("chemistry")
     print('electron')
     print('nano material')
@@ -15,5 +15,10 @@ def area_square(a):
 
 def area_cone(b,h):
     print('area of cone= ',(1*b*h)/2)
+
+def heart_dis():
+    print("heart attack")
+    print('hole in heart')
+    print("cardiac arrest")
 
 area_cone(5,12)
