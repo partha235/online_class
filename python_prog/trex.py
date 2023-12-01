@@ -1,6 +1,6 @@
-x=int(input("enter any number"))
-y=input("enter anything")
 try:
-    print("x*y= ",x+y)
-except Exception as e:
-    print(type(e))
+    x=open("def2.py")
+    print(x)
+    print(x.read())
+except:
+    print("no file in folder")
