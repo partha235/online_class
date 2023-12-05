@@ -23,7 +23,5 @@ def str_mul(n:int,w:str):
     print(w*n)
 
 # str_mul(5,"mathes")
-
-
 per_detail("bps","teaching")
 per_detail("bps","electronic",50000)
