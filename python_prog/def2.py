@@ -5,16 +5,8 @@ def area_circle(r,pi=3.14):
 
 
 def per_detail(name,work,salary=None):
-    global x
-    x=0
-    name_l=[]
-    work_l=[]
-    salary_l=[]
-    name_l.append(name)
-    work_l.append(work)
-    salary_l.append(salary)
-    print("{} is working as {} and having salary of {}".format(name_l[x],work_l[x],salary_l[x]))
-    x+=1
+    print("{} is working as {} and having salary of {}".format(name,work,salary))
+
 
 
 def str_mul(n:int,w:str):
