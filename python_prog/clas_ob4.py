@@ -10,4 +10,4 @@ class mobile:
         print("customer need {} with ram of {} GB and storage of{} GB".format(self.company,self.ram,self.storage))
 
 x1=mobile("oppo",10000,16,256)
-x1.cos_need("nokia")
+x1.cos_need()

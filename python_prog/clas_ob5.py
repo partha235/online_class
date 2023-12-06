@@ -5,7 +5,7 @@ class mobile:
         self.rate=rate
         self.storage=storage
 
-    def cos_need(self):
+    def mobile_need(self):
         print("customer need {} with ram of {} GB and storage of{} GB".format(self.company,self.ram,self.storage))
 
 
@@ -14,8 +14,15 @@ class computer(mobile):
         self.processor=processor
         super().__init__(company,rate,ram,storage)
 
-    def cust_nee(self):
-        print("customer need {} with ram of {} GB and storage of{} GB".format(self.processor,self.ram,self.storage))
+    def comp_need(self):
+        print("customer need {} with ram of {} GB and storage of {} GB".format(self.processor,self.ram,self.storage))
 
-x2=computer("i5",35000,32,"1TB")
-x2.cos_need()
+x2=computer(processor="i5",rate=35000,ram=32,storage="1TB")
+x2.comp_need()
+x2.processor="i3"
+x2.comp_need()
+print(x2.processor)
+
+
+x1=mobile("oppo",10000,16,256)
+x1.mobile_need("nokia")
