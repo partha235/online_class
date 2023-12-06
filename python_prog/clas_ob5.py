@@ -22,6 +22,5 @@ x2.processor="i3"
 x2.comp_need()
 print(x2.processor)
 
-
 x1=mobile("oppo",10000,16,256)
 x1.mobile_need()
