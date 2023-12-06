@@ -8,7 +8,6 @@ class mobile:
     def mobile_need(self):
         print("customer need {} with ram of {} GB and storage of{} GB".format(self.company,self.ram,self.storage))
 
-
 class computer(mobile):
     def __init__(self,processor,rate,ram,storage,company=None):
         self.processor=processor
