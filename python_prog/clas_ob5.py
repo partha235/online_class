@@ -24,4 +24,4 @@ print(x2.processor)
 
 
 x1=mobile("oppo",10000,16,256)
-x1.mobile_need("nokia")
+x1.mobile_need()
