@@ -1,4 +1,4 @@
-#include<stdio.h>
-void main(){
-    printf("saga"); //" *.c "
+#include<stdio.h>  //header or library 
+int main(){
+    printf("saga");       //" *.c "
 }
