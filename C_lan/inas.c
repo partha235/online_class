@@ -3,7 +3,7 @@
 int x,y,c;
 int main(){
     printf("enter x value");
-    scanf("%i",&c);
+    scanf("%i",&x);
     printf("enter y value");
     scanf("%i",&y);
     system("clear");
