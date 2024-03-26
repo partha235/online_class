@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-main(){
-    system("cls");
+int main(){
+    system("clear");
     int a,b;
     cout<<"enter a"<<endl;
     cin>>a;

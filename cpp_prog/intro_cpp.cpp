@@ -2,7 +2,8 @@
 using namespace std;
 
 main(){
-	system("cls"); //" 8.cpp"
+	// system("cls");  // for windows 
+	system("clear");  // for linux
  cout<<"bps_explore";
 }
 	

@@ -1,5 +1,4 @@
 #include"stdio.h"
-
 int x,y,c;
 int main(){
     printf("enter x value");
