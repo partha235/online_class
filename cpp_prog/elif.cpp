@@ -4,7 +4,7 @@ on basis of mark.
 */
 #include<iostream>
 using namespace std;
-main(){
+int main(){
     int mark_per;
     cout<<"enter your percentage";
     cin>>mark_per;

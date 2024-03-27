@@ -9,7 +9,7 @@ main(){
     int x,y;
     cout<<"enter x & y"<<endl;
     cin>>x>>y;
-    system("cls");    // this code was written in vs thus this command may not work in other platform.
+    system("clear");    // this code was written in vs thus this command may not work in other platform.
     if(x>y){
         cout<<"if loop x-y= "<<x-y<<endl;
     }
