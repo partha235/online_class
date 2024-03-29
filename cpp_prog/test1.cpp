@@ -1,29 +1,12 @@
-#include<iostream>
+// write a program to add two integer with a 8.
+#include <iostream>
 using namespace std;
-int main(){
-  int mark_per;
-  cout<<"enter your percentage";
-  cin>>mark_per;
-  if(mark_per>=98){
-    cout<<"you got o grade";
-  }
-  else if(mark_per>=90){
-    cout<<"you got a+ grade";
-  
-  }
-  else if(mark_per>=80){
-    cout<<"you got a grade";
-  }
-  else if(mark_per>=70){
-    cout<<"you got b+ grade";
-  }
-  else if(mark_per>=60){
-    cout<<"you got b grade";
-  } 
-  else if(mark_per>=50){
-    cout<<"you got c grade";
-  }
-  else{
-    cout<<"you got no grade or ra";
-  }
+main(){
+  system("cls");
+  int x,y;
+  cout<<"enter x"<<endl;
+  cin>>x;
+  cout<<"enter y"<<endl;
+  cin>>y;
+  cout<<"8+x+y= "<<8+x+y<<endl;
 }
