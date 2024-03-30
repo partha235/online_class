@@ -1,11 +1,11 @@
 #include"iostream"
 using namespace std;
-main(){
-    int x,*y;
-    char z,*w;
+int main(){
+    int x,*y;   //pointer => address of the variable.
+    string z,*w;
     cout<<"enter x"<<endl;
     cin>>x;
-    cout<<"enter y"<<endl;
+    cout<<"enter z"<<endl;
     cin>>z;
     y=&x;
     w=&z;

@@ -6,7 +6,7 @@ void area_circle(int r){
 } 
 
 void area_cone(int b, int h){
-    cout<<"area of cone = "<<(1*b*h)/2<<endl;
+    cout<<"area of cone = "<<(1*b*h)/2<<endl;  
 }
 main(){
     area_circle(6);

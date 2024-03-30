@@ -13,6 +13,7 @@ protected:
 class MyDerivedClass : public MyClass {
 public:
   void printX() {
+    x=20;
     // Can access the protected member x
     cout << x << endl;
   }

@@ -18,7 +18,7 @@ void mathavan(){
     cout<<"age: 20"<<endl;
 }
 
-main(){
+int main(){
     dinesh();
     mathavan();
 }

@@ -1,3 +1,5 @@
+// this program is to check the length of the variable.
+
 #include"iostream"
 #include"string.h"
 

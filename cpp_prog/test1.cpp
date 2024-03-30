@@ -1,12 +1,21 @@
-// write a program to add two integer with a 8.
-#include <iostream>
+#include<iostream>
 using namespace std;
-main(){
-  system("cls");
-  int x,y;
-  cout<<"enter x"<<endl;
-  cin>>x;
-  cout<<"enter y"<<endl;
-  cin>>y;
-  cout<<"8+x+y= "<<8+x+y<<endl;
+class Myclass{
+  protected:
+  int x;
+  void printx(){
+    cout<<x<<endl;
+  }
+};
+class MyDerved :public Myclass{
+  public:
+  void printx(){
+    x=20;
+    cout<<x<<endl;
+  }
+};
+int main(){
+  MyDerved MyDerivedobject;
+  MyDerivedobject.printx();
+  return 0;
 }

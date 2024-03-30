@@ -6,7 +6,7 @@ and default. */
 using namespace std;
 int main(){
     char x;
-    int d=5,j=8;
+    float d=5,j=8;
     cout<<"ent char";
     cin>>x;
     system("clear"); 
@@ -21,7 +21,7 @@ int main(){
         cout<<"d/j "<<d/j<<endl;
         break;
         default:
-        cout<<"hello ";
+        cout<<"not found ";
         break;
     }   
 }
