@@ -7,7 +7,6 @@ if y not in x:
         print("you can open account")
     else:
         print("you can't open account")
-
 else:
     print("name already exist.")
 
