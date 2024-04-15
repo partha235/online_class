@@ -14,6 +14,8 @@ def str_mul(n:int,w:str):
     w="{}\n".format(w)
     print(w*n)
 
+# area_circle(5)
 # str_mul(5,"mathes")
-per_detail("bps","teaching")
-per_detail("bps","electronic",50000)
+# per_detail("bps","teaching")
+# per_detail("bps","electronic",50000)
+
