@@ -7,7 +7,9 @@ class mobile:
 
 
     def cos_need(self):
-        print("customer need {} with ram of {} GB and storage of{} GB".format(self.company,self.ram,self.storage))
+        print("customer need {} with ram of {}GB and storage of {}GB".format(self.company,self.ram,self.storage))
 
 x1=mobile("oppo",10000,16,256)
+# print(type(x1))
+# print(dir(x1))
 x1.cos_need()

@@ -1,6 +1,6 @@
 class area:
     def square(a):
-        print("area of square = ",4*a)
+        print("area of square = ",a**2)
 
     def rec(l,b):
         print("area of rectangle = ",l*b)
@@ -19,3 +19,4 @@ class perimeter:
         print("perimeter of cone = ", b+h)
 
 area.square(5)
+perimeter.square(5)

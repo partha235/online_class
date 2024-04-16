@@ -6,4 +6,5 @@ class reply(greeting):
     def thank():
         print("Thanks how are you.")
 
+reply.thank()
 reply.welcome()
