@@ -1,23 +1,11 @@
-class cars:
-    def brand():
-        print("toyota")
+# make a calculator to add n number of digits and stop when input is "=".
+# 0,1,2,3........n
+add_v=0
+while True:
+    x=input("enter number")
+    if x=="=":
+        break
+    add_va=int(x)+int(add_v)
+    add_v=add_va
 
-    def price():
-        print(800000)
-
-    def type():
-        print("on road")
-
-class bike:
-    def brand():
-        print("honda")
-    def price():
-        print(250000)
-    def type():
-        print("on road")
-
-cars.brand()
-cars.price()
-bike.brand()
-bike.type()
-
+print(add_v)
