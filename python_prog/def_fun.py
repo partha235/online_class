@@ -1,11 +1,6 @@
-def harini():
-    print("chemistry")
-    print('electron')
-    print('nano material')
-
-def abi():
-    print("proton")
-    print('ethyl alcohol')
+def ar_circle():
+    r=int(input("enter radius"))
+    print("area of circle = ",2*3.14*r)
 
 def area_circle(r):
     print('area of circle= ',3.14*(r**2))
@@ -21,4 +16,6 @@ def heart_dis():
     print('hole in heart')
     print("cardiac arrest")
 
-area_cone(5,12)
+# area_cone(5,12)
+# ar_circle()
+area_circle(5)
