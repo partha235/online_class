@@ -1,4 +1,4 @@
-def ar_circle():
+def cr_circle():
     r=int(input("enter radius"))
     print("area of circle = ",2*3.14*r)
 
@@ -17,5 +17,5 @@ def heart_dis():
     print("cardiac arrest")
 
 # area_cone(5,12)
-# ar_circle()
+# cr_circle()
 area_circle(5)

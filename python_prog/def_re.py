@@ -6,4 +6,5 @@ def ac_re(r):
     return "area of circle= ",ac
 
 # area_circle(5)
-print(ac_re(5))
+# ac_re(5)
+# print(ac_re(5))
