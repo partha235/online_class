@@ -1,3 +1,4 @@
+# simple if loop / if statement
 a=10
 b=int(input("enter b"))
 if a>=b: 

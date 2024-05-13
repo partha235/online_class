@@ -1,9 +1,9 @@
 a=10
 b=int(input("enter b"))
 if a>=b:
-    print("a is greater")
+    print(a>=b)
 else:
-    print("b is greater")
+    print(a>=b)
 
 """
 requirement 
