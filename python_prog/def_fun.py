@@ -1,8 +1,8 @@
 def cr_circle():
     r=int(input("enter radius"))
-    print("area of circle = ",2*3.14*r)
+    print("circumference of circle = ",2*3.14*r)
 
-def area_circle(r):
+def area_circle(r):         # area_circle(parameter)
     print('area of circle= ',3.14*(r**2))
 
 def area_square(a):
@@ -16,6 +16,12 @@ def heart_dis():
     print('hole in heart')
     print("cardiac arrest")
 
-# area_cone(5,12)
-# cr_circle()
-area_circle(5)
+def suveatha():
+    print("8th std")
+    print("krishnagiri")
+    print("SNHS")
+
+def person_detail(name,school,std,section):
+    print("{} studying in {}th standard {} section at {}".format(name, std,section,school))
+
+person_detail("suveatha","SNHS",8,"a")

@@ -3,8 +3,7 @@ for i in range(1,50):
     if i==x:
         continue
     print(i,'hello')
-
-
+                            
 """
 loop increment 
 
@@ -12,5 +11,5 @@ loop increment
                 continue
 
             skip the loop completely.
-            
+   
  """
