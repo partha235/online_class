@@ -12,5 +12,5 @@ else:
 # if b>=20:
 #     print("b>=20")
 
-# if b>=50:
+# if b>=50:.
 #     print("b>=50")
