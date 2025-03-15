@@ -1,7 +1,9 @@
 #include"stdio.h"
-int x=0;
+
+int x=10;
+
 int main(){
-    for(x;x<=10;x++){                // for(int;condition;do(increment/decrement))
-        printf("%i  saga\n",x);
+    for(x;x<=100;x=x+10){                // for(value;condition;do(increment/decrement))
+        printf("%i  hello  suvetha\n",x);
     }
 }

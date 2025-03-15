@@ -1,11 +1,14 @@
-#include"stdio.h"
+#include "stdio.h"
+#include "stdlib.h"
+
 int x,y,c;
+
 int main(){
-    printf("enter x value");
-    scanf("%i",&x);
+    printf("enter x value");   // output function
+    scanf("%i",&x);            // input
     printf("enter y value");
     scanf("%i",&y);
-    system("clear");
+    system("clear");  // terminal clear
     c=x+y;
     printf("c= %i\n",c);
 }
