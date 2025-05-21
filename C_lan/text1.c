@@ -1,5 +1,2 @@
-#include "stdio.h"
-
-int main(){
-    printf("%d",3<=5);
-}
+// if => one action has to be done under exact condition.
+// else => an action has to done when condition is false.

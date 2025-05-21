@@ -1,5 +1,7 @@
 #include"stdio.h"
+
 int x;
+
 void main(){
     Start:
     printf("enter x");

@@ -1,8 +1,8 @@
 #include <stdio.h>  //header or library 
 
-int main(){
+void main(){
     printf("saga"); // output
-}
+} // loop
 
 // stdio => std: standard , i: input, o: output
 // .h => header

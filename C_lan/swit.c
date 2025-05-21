@@ -1,21 +1,23 @@
 #include"stdio.h"
+
 char x;
+
 int main(){
     printf("enter x");
     scanf("%s",&x);
     switch (x)
     {
     case 'a':
-        printf("1 is entered");
+        printf("a is entered");
         break;
     case 'b':
-        printf("2 is entered");
+        printf("b is entered");
         break;
     case 'c':
-        printf("3 is entered");
+        printf("c is entered");
         break;
-    case 'd':
-        printf("4 is entered");
+    case '1':
+        printf("1 is entered");
         break;
     
     default:
