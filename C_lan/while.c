@@ -4,7 +4,9 @@ int x=100;
 
 int main(){
     while(x>50){
-    printf("hi  %i\n",x);
-    x--;  // decrement
+    // x--;
+    printf("hi  %i \n",x);
+    x=x-10;  // decrement
     }
 }
+//  when need to endless. 

@@ -1,13 +1,12 @@
 #include"stdio.h"
 
-int x=500;
+int x=150;
 
 int main(){
     do{
-        printf("do loop %i\n",x); 
-        x--;  // decrement  
+        printf("do loop %i \n",x); 
+        x++;  // decrement  
         
-}
-    while(x>100);
-        printf("while loop %i",x);    
-}   //snipping tool
+    } while(x<200);
+     printf("while loop %i",x);
+}   

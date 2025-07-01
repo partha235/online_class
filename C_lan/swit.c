@@ -5,7 +5,7 @@ char x;
 int main(){
     printf("enter x");
     scanf("%s",&x);
-    switch (x)
+    switch (x) 
     {
     case 'a':
         printf("a is entered");
@@ -25,3 +25,16 @@ int main(){
         break;
     }
 }
+
+
+/* 
+
+switch ()
+{
+case '':
+    action;
+    break;
+
+}
+
+*/

@@ -10,7 +10,6 @@ void main(){
         hi:
         printf("hi\n");
         // goto hello;
-        
     }
     else if(x==2){
         hello:
