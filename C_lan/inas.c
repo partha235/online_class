@@ -8,7 +8,8 @@ int main(){
     scanf("%i",&x);            // input
     printf("enter y value");
     scanf("%i",&y);
-    system("clear");  // terminal clear
+    // system("clear");  // terminal clear
+    system("cls");
     c=x+y;
     printf("c= %i\n",c);
 }
